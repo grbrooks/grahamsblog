@@ -16,6 +16,7 @@
 }
 
 .item a {
+    border:2p solid red;
     border-radius: 25%;
     text-decoration: none;
     color: #fff;
