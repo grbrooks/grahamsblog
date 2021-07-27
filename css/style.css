@@ -9,6 +9,7 @@
 }
 
 .item {
+    padding-top: 3px;
     text-align: center;
     list-style-type: none;
     flex-wrap: left;
@@ -16,18 +17,20 @@
 }
 
 .item a {
-    border:2p solid red;
+    border: 2px solid red;
     border-radius: 25%;
     text-decoration: none;
     color: #fff;
     background-color: goldenrod;
     padding: 4px;
     margin: 5px;
+    transition: width 2s;
 }
 
 .item a:hover {
     background-color: #6f9c07;
     color: #a5a493;
+    width: 300px;
 }
 
 h1 {
