@@ -1,8 +1,29 @@
 * {
+    background-color: #b0e0e0;
     padding: 0;
     margin: 0;
 }
 
 .site-header {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.item {
+    list-style-type: none;
+}
+
+.item a {
+    text-decoration: none;
+    color: #fff;
+    background-color: goldenrod;
+    padding: 4px;
+    margin: 5px;
+}
+
+.item a:hover {
+    color: red;
+}
+
+h1 {
+    text-align: center;
 }
