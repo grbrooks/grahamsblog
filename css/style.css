@@ -11,22 +11,22 @@
 .item {
     text-align: center;
     list-style-type: none;
-    display: flex;
     flex-wrap: left;
     display: inline;
 }
 
 .item a {
+    border-radius: 25%;
     text-decoration: none;
     color: #fff;
     background-color: goldenrod;
     padding: 4px;
     margin: 5px;
-    width: 50px;
 }
 
 .item a:hover {
-    color: #8c00ff;
+    background-color: #6f9c07;
+    color: #a5a493;
 }
 
 h1 {
