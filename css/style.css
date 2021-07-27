@@ -13,7 +13,7 @@
     list-style-type: none;
     display: flex;
     flex-wrap: left;
-    justify-content: ;
+    display: inline;
 }
 
 .item a {
@@ -22,6 +22,7 @@
     background-color: goldenrod;
     padding: 4px;
     margin: 5px;
+    width: 50px;
 }
 
 .item a:hover {
