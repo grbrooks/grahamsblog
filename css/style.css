@@ -9,7 +9,11 @@
 }
 
 .item {
+    text-align: center;
     list-style-type: none;
+    display: flex;
+    flex-wrap: left;
+    justify-content: ;
 }
 
 .item a {
@@ -21,7 +25,7 @@
 }
 
 .item a:hover {
-    color: red;
+    color: #8c00ff;
 }
 
 h1 {
