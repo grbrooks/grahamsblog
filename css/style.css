@@ -37,8 +37,12 @@ h1 {
     text-align: center;
 }
 
-.tut,
-.tutlist {
+.tut {
     margin: 5px;
+    padding: 5px;
+}
+
+.tutList {
+    margin: 8px;
     padding: 5px;
 }
