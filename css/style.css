@@ -37,7 +37,8 @@ h1 {
     text-align: center;
 }
 
-.tut {
-    margin: 3px;
-    padding: auto;
+.tut,
+.tutlist {
+    margin: 5px;
+    padding: 5px;
 }
