@@ -39,6 +39,15 @@ h1 {
 
 .tut,
 .tutList {
-    margin: 10px;
+    margin: 20px;
     padding: 5px;
+}
+
+ol li {
+    text-align: center;
+    font-size: 16px;
+}
+
+.tut h2 {
+    text-align: center;
 }
